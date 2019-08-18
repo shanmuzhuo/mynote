@@ -1,2 +1,2 @@
-# mynote
-for mynote
+# 个人学习文档笔记
+我的简单笔记
