@@ -13,6 +13,7 @@
     * [3.4 glob通配及IO重定向](LINUX/4. glob通配及IO重定向.md)
     * [3.5 用户和组、权限管理](LINUX/5. 用户和组、权限管理.md)
     * [3.6 Bash基础和shell](LINUX/6. Bash基础和shell.md)
+    * [3.7 grep命令和基本正则表达式](LINUX/7. grep命令和基本正则表达式.md)
 * [四、Android学习笔记](Android/README.md)
     * [4.1广播的学习](Android/广播的学习.md)
 
