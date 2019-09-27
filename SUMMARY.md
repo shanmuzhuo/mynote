@@ -15,6 +15,7 @@
     * [3.6 Bash基础和shell](LINUX/6. Bash基础和shell.md)
     * [3.7 grep命令和基本正则表达式](LINUX/7. grep命令和基本正则表达式.md)
     * [散记](LINUX\散记\Readme.md)
+      * [1. 密码到期后passwd无法修改](LINUX\散记\1. 密码到期后passwd无法修改.md)
 * [四、Android学习笔记](Android/README.md)
     * [4.1广播的学习](Android/广播的学习.md)
 
