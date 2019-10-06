@@ -16,6 +16,7 @@
     * [3.7 grep命令和基本正则表达式](LINUX/7. grep命令和基本正则表达式.md)
     * 散记
       * [1. 密码到期后passwd无法修改](LINUX\散记\1. 密码到期后passwd无法修改.md)
+      * [2.VPS安装SS以及加速器BBR](LINUX\散记\2.VPS安装SS以及加速器BBR.md)
 * [四、Android学习笔记](Android/README.md)
     * [4.1广播的学习](Android/广播的学习.md)
 
