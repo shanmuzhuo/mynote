@@ -14,6 +14,8 @@
     * [3.5 用户和组、权限管理](LINUX/5. 用户和组、权限管理.md)
     * [3.6 Bash基础和shell](LINUX/6. Bash基础和shell.md)
     * [3.7 grep命令和基本正则表达式](LINUX/7. grep命令和基本正则表达式.md)
+    * [3.8 egrep命令和进阶表达式](LINUX\8. egrep命令和进阶表达式.md)
+    * [3.9 Vim编辑器](LINUX\9. Vim编辑器.md)
     * 散记
       * [1. 密码到期后passwd无法修改](LINUX\散记\1. 密码到期后passwd无法修改.md)
       * [2.VPS安装SS以及加速器BBR](LINUX\散记\2.VPS安装SS以及加速器BBR.md)
