@@ -16,6 +16,8 @@
     * [3.7 grep命令和基本正则表达式](LINUX/7. grep命令和基本正则表达式.md)
     * [3.8 egrep命令和进阶表达式](LINUX\8. egrep命令和进阶表达式.md)
     * [3.9 Vim编辑器](LINUX\9. Vim编辑器.md)
+    * [ 3.10 Vim高阶bash算术 ](LINUX\10. Vim高阶bash算术.md)
+    * [3.11 find及文件特殊权限](LINUX\11. find及文件特殊权限.md)
     * 散记
       * [1. 密码到期后passwd无法修改](LINUX\散记\1. 密码到期后passwd无法修改.md)
       * [2.VPS安装SS以及加速器BBR](LINUX\散记\2.VPS安装SS以及加速器BBR.md)
