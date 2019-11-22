@@ -23,4 +23,5 @@
       * [2.VPS安装SS以及加速器BBR](LINUX\散记\2.VPS安装SS以及加速器BBR.md)
 * [四、Android学习笔记](Android/README.md)
     * [4.1广播的学习](Android/广播的学习.md)
+* * [ 5.1.微信读书前端Dom乱序](Javascript\微信读书前端Dom乱序.md)
 
